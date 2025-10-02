@@ -434,8 +434,7 @@ flex란? [OpenAI Platform](https://platform.openai.com/docs/guides/flex-processi
 | **사용 모델** | gpt-5(flex) |
 | --- | --- |
 | **총 QA쌍** | 13255개 생성, fallback 1518개 |
-| **소요시간** | 질문 생성: 약 2시간, 
-답변 생성: 약 12시간 |
+| **소요시간** | 질문 생성: 약 2시간, 답변 생성: 약 12시간 |
 | **비용** | 약 459달러 |
 
 # 7. 한계점 및 개선 필요 사항
