@@ -1,4 +1,4 @@
-# Korea_Customs_Service_data_generation
+# Legal_data_generation
 관세청 데이터셋 생성 방법론
 
 - [1. 관세청 데이터 이해 및 분석](#-1.-관세청-데이터-이해-및-분석)
